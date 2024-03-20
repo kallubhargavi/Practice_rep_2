@@ -3,4 +3,3 @@ chelsea
 chinna
 java
 .net
-informatica
